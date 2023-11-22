@@ -61,7 +61,7 @@
 ## Output:
 ![image](https://github.com/kavinajai1311/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151701061/2010955a-9a0a-43f7-a669-2003d4cd2885)
 
-### Name: KAVINAJAI.T
+### Name: Kavinajai.T
 ### Register Number:23013356
 
 ## Result: 
