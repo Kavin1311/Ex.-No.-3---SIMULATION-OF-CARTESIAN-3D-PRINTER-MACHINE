@@ -62,7 +62,7 @@
 ![image](https://github.com/Kavin1311/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/145695724/ae9b518a-5cde-482a-8c16-249b1b6ec301)
 
 ### Name: Kavinajai.T
-### Register Number:23013356
+### Register Number:212223100020
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
